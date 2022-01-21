@@ -29,7 +29,7 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        "lark-parser==0.8.0",
+        "lark-parser",
         "docopt>=0.6.2",
         "pyyaml>=5.1",
     ],
